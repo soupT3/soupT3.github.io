@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Domino's: DIGITAL TRANSFORMATION"
-subtitle: "By Supriya Tiwari"
-cover-img: "D logo.png.jpg"
+title: Domino's: DIGITAL TRANSFORMATION
+subtitle: By Supriya Tiwari
+cover-img: D logo.png.jpg
 thumbnail-img: ""
 share-img: ""
 tags: [test]
