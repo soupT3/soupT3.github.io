@@ -3,8 +3,8 @@ layout: post
 title: Domino's: DIGITAL TRANSFORMATION
 subtitle: By Supriya Tiwari
 cover-img: /D logo.png.jpg
-#thumbnail-img: /assets/img/thumb.png
-#share-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
 tags: [Digital transformation, Domino's]
 ---
 “It’s what we do!”
