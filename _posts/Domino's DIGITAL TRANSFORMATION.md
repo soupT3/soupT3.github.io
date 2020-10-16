@@ -5,7 +5,7 @@ subtitle: "By Supriya Tiwari"
 cover-img: "D logo.png.jpg"
 thumbnail-img: ""
 share-img: ""
-tags: [Digital transformation, Domino's]
+tags: [test]
 ---
 “It’s what we do!”
 
