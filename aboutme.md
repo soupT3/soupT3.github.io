@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: Who am I? 
 ---
-(/IMG_6055 3.jpg)
+![Happy Christmas](IMG_6055 3.jpg)
 
 Hey!! So, my name is Supriya Tiwari, and I'm an MSIS grad student at Santa Clara University. I was introduced to automation and management from a young age, and I can confidently assert that I can seamlessly work with new technologies that have a steep learning curve. My keen interest in digging deeper into trends and patterns has propelled me towards my growth in the field of data and my absolute favourite skills at the moment are Python, SQL and Tableau. 
  
