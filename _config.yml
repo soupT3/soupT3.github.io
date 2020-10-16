@@ -6,19 +6,21 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: soupT3.github.io
 
 # Your name to show in the footer
-author: Some Person
+author: SUPRIYA TIWARI
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Projects:
+    - Global Terrorism Analysis: "https://github.com/soupT3/Global-Terrorism-Analysis/blob/master/Supriya_Tiwari_Project2_winter2020%20(1).ipynb"
+    - Video Games Analysis: "https://github.com/soupT3/Video-Games-Analysis/blob/master/Video_Games_Analysis.ipynb"
+    - Global Covid-19 Cases : "https://public.tableau.com/profile/supriya.tiwari#!/vizhome/Covid-19_15991074044560/Dashboard1"
+    - Domino's: Digital Transformation: "https://www.linkedin.com/pulse/dominos-digital-transformation-supriya-tiwari/?trackingId=HXgaU%2BAvRFKciBJGXotWiQ%3D%3D"
+ 
 
 # --- Logo --- #
 
@@ -40,11 +42,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: stiwari3@scu.edu
-  facebook: deanattali
+  facebook: https://www.facebook.com/supriya.tiwari.98/
   github: https://github.com/soupT3
-  twitter: daattali
+ # twitter: daattali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: https://www.linkedin.com/in/supriya-tiwari3/
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -69,9 +71,11 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
   linkedin: true
+  github: true
+  email: true
   vk: false
 
 # How to display the link to your website in the footer
