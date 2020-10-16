@@ -7,7 +7,7 @@ thumbnail-img: ""
 share-img: ""
 tags: [test]
 ---
-“It’s what we do!”
+# Header One “It’s what we do!”
 
 Digital transformation is everywhere! It is the incorporation of digital technology into all areas of a business resulting in rudimentary changes to how businesses operate and how they deliver value to customers. Digital technology is radically modifying the balance of power between customers and companies. When we think about a company that has transformed digitally, what are some of the obvious answers coming to our mind? Amazon, Google and Facebook, right? Of course, these companies have all changed the digital landscape in some way but who is the black horse? When we think about best web experiences, we probably never think of pizza companies first. However, Domino’s Pizza has re-invented its brand image and user commitment through unique digital strategies. It is an example of a company in a traditional sector that has undertaken significant technology-driven transformation. Their transformation journey is truly noteworthy.
 
